@@ -1,25 +1,19 @@
-﻿# Maple Downloads
+# Maple Forge Bag Capture
 
-Public release downloads for the GuruChoc MapleStory: Idle RPG utility suite.
+**Latest release: v1.0.0** — Windows 64-bit
 
-This repository intentionally contains **release packages only**. Development source code is maintained privately.
+Maple Forge Bag Capture captures equipment-bag screenshots from MapleStory: Idle RPG. It includes capture controls, calibration, progress reporting and a safe-stop option.
 
-## Current tools
+## Download
 
-- MapleOCR
-- Maple Toolbox
-- MapleSkills
-- Equipment Bag Capture Tool
-- MapleBIS
+- **[Windows installer (.exe)](https://github.com/GuruChoc/MapleDownloads/releases/download/v1.0.0/MapleForge_BagCapture_Setup_1.0.0.exe)**
+- **[Portable version (.zip)](https://github.com/GuruChoc/MapleDownloads/releases/download/v1.0.0/MapleForge_BagCapture_Portable_1.0.0.zip)**
+- [Release notes and checksums](https://github.com/GuruChoc/MapleDownloads/releases/tag/v1.0.0)
 
-Use the **Releases** section to download the current package for each tool.
+For the portable version, extract the entire ZIP to a writable folder, run `MapleForge.exe`, and complete calibration before the first capture.
 
-Release tag format:
+## About this repository
 
-- MapleOCR-vXXX
-- MapleToolbox-vX.XX
-- MapleSkills-vX.X.X
-- EquipmentBagCaptureTool-vX.X.X
-- MapleBIS-vX.X.X
+This repository provides **public compiled downloads only**. Maple Forge development source is maintained privately. GitHub's automatically generated “Source code” archives contain the public repository files, not the private Maple Forge application source.
 
-No gameplay automation is provided by these tools.
+Earlier utility releases remain accessible in [Releases](https://github.com/GuruChoc/MapleDownloads/releases).
